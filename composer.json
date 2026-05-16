@@ -1,0 +1,5 @@
+{
+	"name": "epiphyt/impressum-stubs",
+	"description": "Impressum function and class declaration stubs for static analysis by PHPStan",
+	"minimum-stability": "stable"
+}
